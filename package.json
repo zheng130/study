@@ -1,0 +1,23 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "hello world !",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/zheng130/study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zheng130/study/issues"
+  },
+  "homepage": "https://github.com/zheng130/study#readme",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
